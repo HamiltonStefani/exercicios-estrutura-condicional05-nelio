@@ -1,5 +1,3 @@
-package exerciciospropostos05;
-
 import java.util.Locale;
 import java.util.Scanner;
 
@@ -27,5 +25,3 @@ public class HamiltonStefani {
 		sc.close();
 
 	}
-
-}
